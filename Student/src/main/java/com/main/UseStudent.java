@@ -37,7 +37,7 @@ public class UseStudent {
 		
 		
 		
-		
+		System.out.println("Server edit");
 		
 	//	Normal
 		boolean res = service.SearchByName(student1, "Shiva");
